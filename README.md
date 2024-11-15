@@ -1,4 +1,4 @@
 # ua1306pf
-| GitHub Nikname | Full Name |
+| GitHub nickname | Full Name |
 | -------- | ------- |
 | lhalam | Liubomyr Halamaha |
