@@ -20,7 +20,7 @@
 | 15 | Artur Volynets          | artur_52092           |
 | 16 | Бадюла Максим           | veteran1999           |
 | 17 | Artur Burov             | kajihan               |
-| 18 | Oleksii Vlaskov         | alexbjfirst           |
+| 18 | Oleksii Vlaskov         | alexjbfirst           |
 | 19 | Borys Mykhailyk         | bob07181              |
 | 20 | Oleksii Shapka          | griffiiiiiith         |
 | 21 | Izabella Kodzhebash     | izkod111              |
