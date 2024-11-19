@@ -12,3 +12,6 @@ Beautiful is better than ugly. ( Shapka Oleksii )
 
 
 14. Although that way may not be obvious at first unless you're Dutch. (Yurii Kachur)
+
+
+17. If the implementation is hard to explain, it's a bad idea. (Artur Burov)
