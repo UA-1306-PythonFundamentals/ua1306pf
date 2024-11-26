@@ -21,9 +21,9 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!'''
 
 #task 1.1
-print("The number of occurrences of word 'better' = \n", zen_of_python.count('better'))
-print("The number of occurrences of word 'never' = \n", zen_of_python.count('never'))
-print("The number of occurrences of word 'is' = \n", zen_of_python.count('is'))
+print("The number of occurrences of word 'better' = ", zen_of_python.count('better'))
+print("The number of occurrences of word 'never' = ", zen_of_python.count('never'))
+print("The number of occurrences of word 'is' = ", zen_of_python.count('is'))
 
 # task 1.2
 print(zen_of_python.upper())
