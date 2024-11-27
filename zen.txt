@@ -3,7 +3,7 @@ Sparse is better than dense.
 Beautiful is better than ugly. (OleksiiVlaskov)
 Beautiful is better than ugly. ( Shapka Oleksii )
 4. Complex is better than complicated. (Yuliia Shpylka). rework
-
+5. Flat is better than nested. (Pavlo Dynovvskyi)
 
 
 
@@ -14,19 +14,15 @@ Beautiful is better than ugly. ( Shapka Oleksii )
 
 14. Although that way may not be obvious at first unless you're Dutch. (Yurii Kachur)
 
-
-<<<<<<< HEAD
-
-
-
-20. Flat is better than nested. (Pavlo Dynovvskyi)
-
-
-
-
-
-
-
-=======
 17. If the implementation is hard to explain, it's a bad idea. (Artur Burov)
->>>>>>> 15039cc53a8f99c1637888a53d81c76cf8c8f9b4
+
+
+
+
+
+
+
+
+
+
+
