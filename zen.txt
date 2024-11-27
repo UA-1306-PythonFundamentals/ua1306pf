@@ -11,7 +11,7 @@ Beautiful is better than ugly. ( Shapka Oleksii )
 
 11. Unless explicitly silenced. (OleksandraPetrivska)
 
-
+13. There should be one-- and preferably only one --obvious way to do it.
 14. Although that way may not be obvious at first unless you're Dutch. (Yurii Kachur)
 
 
