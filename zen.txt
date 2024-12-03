@@ -16,3 +16,6 @@ Beautiful is better than ugly. ( Shapka Oleksii )
 
 
 17. If the implementation is hard to explain, it's a bad idea. (Artur Burov)
+
+
+10. Errors should never pass silently. (Anastasiia Kravchenko)
