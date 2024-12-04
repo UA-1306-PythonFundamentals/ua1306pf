@@ -236,14 +236,41 @@
 # print(text[2:8:3])
 # print(text[::-1])
 
-text = "This will split all words into a list"
+#text = "This will split all words into a list"
 
-print(text.split())
-print(text.split("ll"))
-print(text.find("ll"))
-print(text.find("ll", 8))
-print(text.find("ll", 8, 15))# return -1 if not found
-print(text.replace("ll", "TEXT"))
-l = ["1","2","3","4","5"]
-print("=>".join(l))
+# print(text.split())
+# print(text.split("ll"))
+# print(text.find("ll"))
+# print(text.find("ll", 8))
+# print(text.find("ll", 8, 15))# return -1 if not found
+# print(text.replace("ll", "TEXT"))
+# l = ["1","2","3","4","5"]
+# print("=>".join(l))
 
+######################
+# a = "1234567890123456"
+# l = ""
+# k = "*"
+
+# for i in a[0:12]:
+#     l += k
+# print(l + a[13:])
+
+ABSOLUTE = -273.15
+temp = input("Please enter a tempersture in Celsius: ")
+# d = temp.isnumeric()
+if int(temp) > ABSOLUTE:
+    far_temp = (int(temp) * 9 / 5) + 32
+    print(far_temp, "F")
+elif int(temp) < ABSOLUTE:
+     print("Error: Temperature below absolute zero (-273.15°C)")
+else:
+    print("Please enter a number")
+
+# a = "56tyui56.89"
+# x = isinstance(int(a), int)
+# if x:
+#     print(a)
+# else:
+#     print("nothing")
+# # print(float(a))
