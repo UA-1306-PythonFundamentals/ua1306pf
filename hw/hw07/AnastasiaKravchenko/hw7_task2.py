@@ -50,3 +50,4 @@ elif user_choice == 'circle':
     print(f'The area of a circle is: {circle_area(float(user_radius))}')
 else:
     print('I don\'t know such shape.')
+
