@@ -1,0 +1,6 @@
+a = input("Input login: ")
+while a == "First":
+    print("welcome")
+    break
+else:
+    print("Error")
