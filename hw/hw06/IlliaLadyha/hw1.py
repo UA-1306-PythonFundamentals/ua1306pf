@@ -96,7 +96,7 @@ def find_odd(lst):
 
 def find_odd(lst):
      
-    filtered_list = [x for x in lst if x % 2! == 0 and x! % 3 == 0]  
+    filtered_list = [x for x in lst if x % 2! == 0 and x % 3! == 0]  
     
     return filtered_list
 
